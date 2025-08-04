@@ -6,15 +6,6 @@ I'm currently working toward becoming a full-fledged software engineer. I spend 
 
 Outside of code, I love to read — it's how I recharge and gather new ideas.
 
----
-
-## 🚀 Projects I'm Proud Of
-
-- 🧠 **AI Experiments** – Small Python projects exploring machine learning concepts
-- 🌐 **Web Apps** – Clean, functional web apps built using Flask/Django and JavaScript
-- 📚 **Learning Playground** – A repo of tiny experiments, bugs, and breakthroughs
-
-*(Check out my pinned repositories for more!)*
 
 ---
 
