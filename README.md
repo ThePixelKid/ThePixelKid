@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm ThePixelKid
 
-### 🧠 Aspiring Software Engineer | Python Dev | Web & AI Enthusiast
+### 🧠 Aspiring Software Engineer | Python Dev | App & AI Enthusiast
 
-I'm currently working toward becoming a full-fledged software engineer. I spend most of my time learning and building with Python, especially in web development and artificial intelligence. I believe in making software that's both smart and human-friendly.
+I'm currently working toward becoming a full-fledged software engineer. I spend most of my time learning and building with Python, especially in app development and artificial intelligence. I believe in making software that's both smart and human-friendly.
 
 Outside of code, I love to read — it's how I recharge and gather new ideas.
 
@@ -11,9 +11,9 @@ Outside of code, I love to read — it's how I recharge and gather new ideas.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks**: Flask, Django (learning), FastAPI (exploring), React (in progress)
-- **Tools**: Git, VS Code, Jupyter, Linux, GitHub Projects
+- **Languages**: Python
+- **Frameworks**: Flask(learning), Django (learning), FastAPI (exploring), React (in progress)
+- **Tools**: VS Code, Jupyter, GitHub Projects
 - **Interests**: AI/ML, Backend Dev, Web APIs, Automation
 
 ---
